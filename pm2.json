@@ -1,0 +1,4 @@
+{
+	"name": "aifrt_server",
+	"script": "npm run dev"
+}
